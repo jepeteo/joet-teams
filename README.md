@@ -1,6 +1,6 @@
 # joet-teams
-A dynamic Gutenberg block that displays team members.
-In order to use this block, you need use the ACF plugin (free version) and create a custom post type Team Members along with some fields.
+A dynamic Gutenberg block that displays random team members.
+In order to use this block, you need use the [ACF plugin (free)](https://wordpress.org/plugins/advanced-custom-fields/) and create a custom post type Team Members along with some fields.
 You can download the **team-members-fields-cpt.json** and import in the acf plugin.
 
 ## Class
